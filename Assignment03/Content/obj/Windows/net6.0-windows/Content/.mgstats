@@ -1,0 +1,19 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CPI411_2023/Assignment03/Content/art.PNG","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/art.xnb","TextureProcessor","Texture2DContent",14851,262229,0.3068112
+"D:/CPI411_2023/Assignment03/Content/BumpMap.fx","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/BumpMap.xnb","EffectProcessor","CompiledEffectContent",6448,10746,0.5427256
+"D:/CPI411_2023/Assignment03/Content/BumpTest.png","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/BumpTest.xnb","TextureProcessor","Texture2DContent",632916,1048661,0.0918029
+"D:/CPI411_2023/Assignment03/Content/crossHatch.png","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/crossHatch.xnb","TextureProcessor","Texture2DContent",276085,1048661,0.0539375
+"D:/CPI411_2023/Assignment03/Content/Font.spritefont","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21535,0.1365544
+"D:/CPI411_2023/Assignment03/Content/monkey.png","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/monkey.xnb","TextureProcessor","Texture2DContent",32389,262229,0.0247134
+"D:/CPI411_2023/Assignment03/Content/nvlobby_new_negx.png","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/nvlobby_new_negx.xnb","TextureProcessor","Texture2DContent",376498,1048661,0.0553956
+"D:/CPI411_2023/Assignment03/Content/nvlobby_new_negy.png","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/nvlobby_new_negy.xnb","TextureProcessor","Texture2DContent",390547,1048661,0.0756603
+"D:/CPI411_2023/Assignment03/Content/nvlobby_new_negz.png","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/nvlobby_new_negz.xnb","TextureProcessor","Texture2DContent",378490,1048661,0.0549243
+"D:/CPI411_2023/Assignment03/Content/nvlobby_new_posx.png","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/nvlobby_new_posx.xnb","TextureProcessor","Texture2DContent",381934,1048661,0.0573633
+"D:/CPI411_2023/Assignment03/Content/nvlobby_new_posy.png","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/nvlobby_new_posy.xnb","TextureProcessor","Texture2DContent",337108,1048661,0.0417765
+"D:/CPI411_2023/Assignment03/Content/nvlobby_new_posz.png","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/nvlobby_new_posz.xnb","TextureProcessor","Texture2DContent",399410,1048661,0.0660141
+"D:/CPI411_2023/Assignment03/Content/round.png","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/round.xnb","TextureProcessor","Texture2DContent",265825,1048661,0.0369348
+"D:/CPI411_2023/Assignment03/Content/saint.png","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/saint.xnb","TextureProcessor","Texture2DContent",64372,262229,0.0264363
+"D:/CPI411_2023/Assignment03/Content/science.PNG","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/science.xnb","TextureProcessor","Texture2DContent",18386,262229,0.0231978
+"D:/CPI411_2023/Assignment03/Content/Skybox.fx","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/Skybox.xnb","EffectProcessor","CompiledEffectContent",999,1687,0.4473733
+"D:/CPI411_2023/Assignment03/Content/square.png","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/square.xnb","TextureProcessor","Texture2DContent",66866,1048661,0.0768956
+"D:/CPI411_2023/Assignment03/Content/Torus.FBX","D:/CPI411_2023/Assignment03/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",65408,83121,0.1709511

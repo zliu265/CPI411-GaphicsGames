@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CPI411_2023/Lab09/Content/DepthMap.fx","D:/CPI411_2023/Lab09/Content/bin/Windows/Content/DepthMap.xnb","EffectProcessor","CompiledEffectContent",1429,2577,0.532874
+"D:/CPI411_2023/Lab09/Content/Lighting.fx","D:/CPI411_2023/Lab09/Content/bin/Windows/Content/Lighting.xnb","EffectProcessor","CompiledEffectContent",2387,3996,0.4670922
+"D:/CPI411_2023/Lab09/Content/Plane.FBX","D:/CPI411_2023/Lab09/Content/bin/Windows/Content/Plane.xnb","ModelProcessor","ModelContent",18112,1657,0.1379473
+"D:/CPI411_2023/Lab09/Content/torus.FBX","D:/CPI411_2023/Lab09/Content/bin/Windows/Content/torus.xnb","ModelProcessor","ModelContent",65056,53689,0.0247214

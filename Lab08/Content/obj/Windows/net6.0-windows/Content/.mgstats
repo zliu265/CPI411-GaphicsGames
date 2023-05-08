@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CPI411_2023/Lab08/Content/DepthMap.fx","D:/CPI411_2023/Lab08/Content/bin/Windows/Content/DepthMap.xnb","EffectProcessor","CompiledEffectContent",1085,2089,0.5125832
+"D:/CPI411_2023/Lab08/Content/nvlobby_new_negz.png","D:/CPI411_2023/Lab08/Content/bin/Windows/Content/nvlobby_new_negz.xnb","TextureProcessor","Texture2DContent",378490,1048661,0.1911707
+"D:/CPI411_2023/Lab08/Content/Plane.FBX","D:/CPI411_2023/Lab08/Content/bin/Windows/Content/Plane.xnb","ModelProcessor","ModelContent",18112,1657,0.1071314
+"D:/CPI411_2023/Lab08/Content/ProjectiveTexture.fx","D:/CPI411_2023/Lab08/Content/bin/Windows/Content/ProjectiveTexture.xnb","EffectProcessor","CompiledEffectContent",2017,3222,0.4315822

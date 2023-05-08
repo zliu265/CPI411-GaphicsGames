@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/User/Desktop/CPI411_2023/Lab02/Content/logo_mg.jpg","C:/Users/User/Desktop/CPI411_2023/Lab02/Content/bin/Windows/Content/logo_mg.xnb","TextureProcessor","Texture2DContent",68412,562493,0.311671
+"C:/Users/User/Desktop/CPI411_2023/Lab02/Content/SimpleTexture.fx","C:/Users/User/Desktop/CPI411_2023/Lab02/Content/bin/Windows/Content/SimpleTexture.xnb","EffectProcessor","CompiledEffectContent",967,1604,0.4752334

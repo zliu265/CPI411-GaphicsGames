@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"H:/CPI411_2023/Lab09/Content/Plane.FBX","H:/CPI411_2023/Lab09/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",18112,1657,0.6591012
+"H:/CPI411_2023/Lab09/Content/torus.FBX","H:/CPI411_2023/Lab09/Content/bin/Windows/torus.xnb","ModelProcessor","ModelContent",65056,53689,0.020029

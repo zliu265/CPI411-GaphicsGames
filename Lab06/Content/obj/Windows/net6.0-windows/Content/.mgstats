@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CPI411_2023/Lab06/Content/Helicopter/Helicopter.fbx","D:/CPI411_2023/Lab06/Content/bin/Windows/Content/Helicopter/Helicopter.xnb","ModelProcessor","ModelContent",68752,24016,0.6136002
+"D:/CPI411_2023/Lab06/Content/Helicopter/HelicopterTexture.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Content/Helicopter/HelicopterTexture.xnb","TextureProcessor","Texture2DContent",2544,1048661,0.0477846
+"D:/CPI411_2023/Lab06/Content/Reflection.fx","D:/CPI411_2023/Lab06/Content/bin/Windows/Content/Reflection.xnb","EffectProcessor","CompiledEffectContent",1588,2445,0.5034456
+"D:/CPI411_2023/Lab06/Content/Skybox/cube.fbx","D:/CPI411_2023/Lab06/Content/bin/Windows/Content/Skybox/cube.xnb","ModelProcessor","ModelContent",16784,907,0.0148021
+"D:/CPI411_2023/Lab06/Content/Skybox/skybox.fx","D:/CPI411_2023/Lab06/Content/bin/Windows/Content/Skybox/skybox.xnb","EffectProcessor","CompiledEffectContent",1085,1692,0.4321799
+"D:/CPI411_2023/Lab06/Content/Skybox/SunsetPNG1.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Content/Skybox/SunsetPNG1.xnb","TextureProcessor","Texture2DContent",268460,1048661,0.1032883
+"D:/CPI411_2023/Lab06/Content/Skybox/SunsetPNG2.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Content/Skybox/SunsetPNG2.xnb","TextureProcessor","Texture2DContent",266493,1048661,0.0567854
+"D:/CPI411_2023/Lab06/Content/Skybox/SunsetPNG3.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Content/Skybox/SunsetPNG3.xnb","TextureProcessor","Texture2DContent",90567,1048661,0.0591749
+"D:/CPI411_2023/Lab06/Content/Skybox/SunsetPNG4.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Content/Skybox/SunsetPNG4.xnb","TextureProcessor","Texture2DContent",244734,1048661,0.0581347
+"D:/CPI411_2023/Lab06/Content/Skybox/SunsetPNG5.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Content/Skybox/SunsetPNG5.xnb","TextureProcessor","Texture2DContent",257410,1048661,0.0281
+"D:/CPI411_2023/Lab06/Content/Skybox/SunsetPNG6.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Content/Skybox/SunsetPNG6.xnb","TextureProcessor","Texture2DContent",267828,1048661,0.0548318

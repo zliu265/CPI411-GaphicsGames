@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"H:/CPI411_2023/Lab05/Content/Font.spritefont","H:/CPI411_2023/Lab05/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21535,0.2176359
+"H:/CPI411_2023/Lab05/Content/skybox/cube.fbx","H:/CPI411_2023/Lab05/Content/bin/Windows/skybox/cube.xnb","ModelProcessor","ModelContent",16784,907,0.1820911
+"H:/CPI411_2023/Lab05/Content/skybox/skybox.fx","H:/CPI411_2023/Lab05/Content/bin/Windows/skybox/skybox.xnb","EffectProcessor","CompiledEffectContent",1085,1692,0.3026833
+"H:/CPI411_2023/Lab05/Content/skybox/SunsetPNG1.png","H:/CPI411_2023/Lab05/Content/bin/Windows/skybox/SunsetPNG1.xnb","TextureProcessor","Texture2DContent",268460,1048661,0.1262516
+"H:/CPI411_2023/Lab05/Content/skybox/SunsetPNG2.png","H:/CPI411_2023/Lab05/Content/bin/Windows/skybox/SunsetPNG2.xnb","TextureProcessor","Texture2DContent",266493,1048661,0.0725039
+"H:/CPI411_2023/Lab05/Content/skybox/SunsetPNG3.png","H:/CPI411_2023/Lab05/Content/bin/Windows/skybox/SunsetPNG3.xnb","TextureProcessor","Texture2DContent",90567,1048661,0.0624791
+"H:/CPI411_2023/Lab05/Content/skybox/SunsetPNG4.png","H:/CPI411_2023/Lab05/Content/bin/Windows/skybox/SunsetPNG4.xnb","TextureProcessor","Texture2DContent",244734,1048661,0.0650195
+"H:/CPI411_2023/Lab05/Content/skybox/SunsetPNG5.png","H:/CPI411_2023/Lab05/Content/bin/Windows/skybox/SunsetPNG5.xnb","TextureProcessor","Texture2DContent",257410,1048661,0.0681117
+"H:/CPI411_2023/Lab05/Content/skybox/SunsetPNG6.png","H:/CPI411_2023/Lab05/Content/bin/Windows/skybox/SunsetPNG6.xnb","TextureProcessor","Texture2DContent",267828,1048661,0.0566587

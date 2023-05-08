@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CPI411_2023/Lab03/Content/bunny.FBX","D:/CPI411_2023/Lab03/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",2733392,1254683,0.4461203
+"D:/CPI411_2023/Lab03/Content/Font.spritefont","D:/CPI411_2023/Lab03/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21535,0.2619705
+"D:/CPI411_2023/Lab03/Content/SimpleShading.fx","D:/CPI411_2023/Lab03/Content/bin/Windows/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",1119,2086,0.4619467

@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"H:/CPI411_2023/Assignment01/Content/box.fbx","H:/CPI411_2023/Assignment01/Content/bin/Windows/box.xnb","ModelProcessor","ModelContent",20592,1501,0.1828458
+"H:/CPI411_2023/Assignment01/Content/bunny.FBX","H:/CPI411_2023/Assignment01/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",2733392,1254683,0.2742261
+"H:/CPI411_2023/Assignment01/Content/Font.spritefont","H:/CPI411_2023/Assignment01/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21535,0.1086363
+"H:/CPI411_2023/Assignment01/Content/SimpleShading.fx","H:/CPI411_2023/Assignment01/Content/bin/Windows/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",6020,10463,0.3117379
+"H:/CPI411_2023/Assignment01/Content/sphere.fbx","H:/CPI411_2023/Assignment01/Content/bin/Windows/sphere.xnb","ModelProcessor","ModelContent",97856,93051,0.0211818
+"H:/CPI411_2023/Assignment01/Content/teapot.fbx","H:/CPI411_2023/Assignment01/Content/bin/Windows/teapot.xnb","ModelProcessor","ModelContent",353152,374811,0.0952398
+"H:/CPI411_2023/Assignment01/Content/Torus.FBX","H:/CPI411_2023/Assignment01/Content/bin/Windows/Torus.xnb","ModelProcessor","ModelContent",65408,53689,0.0204652

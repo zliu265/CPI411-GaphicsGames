@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/google drive/1.ASU-2023-spring/CPI411/CPI411_2023/Lab02/Content/logo_mg.jpg","D:/google drive/1.ASU-2023-spring/CPI411/CPI411_2023/Lab02/Content/bin/Windows/logo_mg.xnb","TextureProcessor","Texture2DContent",68412,562493,0.2574082
+"D:/google drive/1.ASU-2023-spring/CPI411/CPI411_2023/Lab02/Content/SimpleTexture.fx","D:/google drive/1.ASU-2023-spring/CPI411/CPI411_2023/Lab02/Content/bin/Windows/SimpleTexture.xnb","EffectProcessor","CompiledEffectContent",953,1604,0.4198069

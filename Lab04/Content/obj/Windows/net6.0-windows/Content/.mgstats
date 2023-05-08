@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CPI411_2023/Lab04/Content/SimpleShadingLab04.fx","D:/CPI411_2023/Lab04/Content/bin/Windows/Content/SimpleShadingLab04.xnb","EffectProcessor","CompiledEffectContent",2822,5097,0.4883067
+"D:/CPI411_2023/Lab04/Content/Torus.FBX","D:/CPI411_2023/Lab04/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",65408,53689,0.2878811

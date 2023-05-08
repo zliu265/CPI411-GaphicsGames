@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"I:/CPI411_2023/Lab07/Content/BumpMap.fx","I:/CPI411_2023/Lab07/Content/bin/Windows/BumpMap.xnb","EffectProcessor","CompiledEffectContent",2585,3910,0.7374813
+"I:/CPI411_2023/Lab07/Content/NormalMap/art.PNG","I:/CPI411_2023/Lab07/Content/bin/Windows/NormalMap/art.xnb","TextureProcessor","Texture2DContent",14851,262229,0.2864085
+"I:/CPI411_2023/Lab07/Content/NormalMap/BumpTest.png","I:/CPI411_2023/Lab07/Content/bin/Windows/NormalMap/BumpTest.xnb","TextureProcessor","Texture2DContent",632916,1048661,0.0837417
+"I:/CPI411_2023/Lab07/Content/NormalMap/crossHatch.png","I:/CPI411_2023/Lab07/Content/bin/Windows/NormalMap/crossHatch.xnb","TextureProcessor","Texture2DContent",276085,1048661,0.0687578
+"I:/CPI411_2023/Lab07/Content/NormalMap/monkey.png","I:/CPI411_2023/Lab07/Content/bin/Windows/NormalMap/monkey.xnb","TextureProcessor","Texture2DContent",32389,262229,0.0186322
+"I:/CPI411_2023/Lab07/Content/NormalMap/nm.dds","I:/CPI411_2023/Lab07/Content/bin/Windows/NormalMap/nm.xnb","TextureProcessor","TextureCubeContent",393344,393319,0.0335315
+"I:/CPI411_2023/Lab07/Content/NormalMap/round.png","I:/CPI411_2023/Lab07/Content/bin/Windows/NormalMap/round.xnb","TextureProcessor","Texture2DContent",265825,1048661,0.0577636
+"I:/CPI411_2023/Lab07/Content/NormalMap/saint.png","I:/CPI411_2023/Lab07/Content/bin/Windows/NormalMap/saint.xnb","TextureProcessor","Texture2DContent",64372,262229,0.019525
+"I:/CPI411_2023/Lab07/Content/NormalMap/science.PNG","I:/CPI411_2023/Lab07/Content/bin/Windows/NormalMap/science.xnb","TextureProcessor","Texture2DContent",18386,262229,0.0178049
+"I:/CPI411_2023/Lab07/Content/NormalMap/square.png","I:/CPI411_2023/Lab07/Content/bin/Windows/NormalMap/square.xnb","TextureProcessor","Texture2DContent",66866,1048661,0.053584
+"I:/CPI411_2023/Lab07/Content/Plane.FBX","I:/CPI411_2023/Lab07/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",20768,2289,0.2313697

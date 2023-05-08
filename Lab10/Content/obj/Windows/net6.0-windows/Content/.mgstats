@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CPI411_2023/Lab10/Content/fire.png","D:/CPI411_2023/Lab10/Content/bin/Windows/Content/fire.xnb","TextureProcessor","Texture2DContent",146324,262229,0.3522633
+"D:/CPI411_2023/Lab10/Content/ParticleShader.fx","D:/CPI411_2023/Lab10/Content/bin/Windows/Content/ParticleShader.xnb","EffectProcessor","CompiledEffectContent",1453,2148,0.5350917
+"D:/CPI411_2023/Lab10/Content/Torus.FBX","D:/CPI411_2023/Lab10/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",65408,53689,0.1527262

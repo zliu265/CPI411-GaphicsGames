@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CPI411_2023/Assignment04/Content/../../Assignment01/Content/Torus.FBX","D:/CPI411_2023/Assignment04/Content/bin/Windows/Torus.xnb","ModelProcessor","ModelContent",65408,53689,0.2130295
+"D:/CPI411_2023/Assignment04/Content/../../Lab07/Content/NormalMap/square.png","D:/CPI411_2023/Assignment04/Content/bin/Windows/square.xnb","TextureProcessor","Texture2DContent",66866,1048661,0.1896534
+"D:/CPI411_2023/Assignment04/Content/../../Lab07/Content/Plane.FBX","D:/CPI411_2023/Assignment04/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",20768,1657,0.0028429
+"D:/CPI411_2023/Assignment04/Content/box.fbx","D:/CPI411_2023/Assignment04/Content/bin/Windows/box.xnb","ModelProcessor","ModelContent",20592,1501,0.0024877
+"D:/CPI411_2023/Assignment04/Content/fire.png","D:/CPI411_2023/Assignment04/Content/bin/Windows/fire.xnb","TextureProcessor","Texture2DContent",146324,262229,0.0085021
+"D:/CPI411_2023/Assignment04/Content/Font.spritefont","D:/CPI411_2023/Assignment04/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21535,0.098568
+"D:/CPI411_2023/Assignment04/Content/ParticleShader.fx","D:/CPI411_2023/Assignment04/Content/bin/Windows/ParticleShader.xnb","EffectProcessor","CompiledEffectContent",1474,2251,0.4391279
+"D:/CPI411_2023/Assignment04/Content/smoke.png","D:/CPI411_2023/Assignment04/Content/bin/Windows/smoke.xnb","TextureProcessor","Texture2DContent",90978,262229,0.0146495
+"D:/CPI411_2023/Assignment04/Content/Square.png","D:/CPI411_2023/Assignment04/Content/bin/Windows/Square.xnb","TextureProcessor","Texture2DContent",213,4181,0.0016422
+"D:/CPI411_2023/Assignment04/Content/water.png","D:/CPI411_2023/Assignment04/Content/bin/Windows/water.xnb","TextureProcessor","Texture2DContent",58538,262229,0.0157242

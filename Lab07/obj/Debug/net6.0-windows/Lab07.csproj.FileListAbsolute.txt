@@ -1,0 +1,206 @@
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\BumpMap.xnb
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\Plane.xnb
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.exe
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.deps.json
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.runtimeconfig.json
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.pdb
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.csproj.AssemblyReference.cache
+D:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.AssemblyInfoInputs.cache
+D:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.AssemblyInfo.cs
+D:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.csproj.CoreCompileInputs.cache
+D:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.csproj.CopyComplete
+D:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.dll
+D:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\refint\Lab07.dll
+D:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.pdb
+D:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.genruntimeconfig.cache
+D:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\ref\Lab07.dll
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\round.xnb
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\art.xnb
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\BumpTest.xnb
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\crossHatch.xnb
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\monkey.xnb
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\nm.xnb
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\saint.xnb
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\science.xnb
+D:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\square.xnb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\BumpMap.xnb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\art.xnb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\BumpTest.xnb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\crossHatch.xnb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\monkey.xnb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\nm.xnb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\round.xnb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\saint.xnb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\science.xnb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\square.xnb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\Plane.xnb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.exe
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.deps.json
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.runtimeconfig.json
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.pdb
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+H:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.csproj.AssemblyReference.cache
+H:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+H:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.AssemblyInfoInputs.cache
+H:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.AssemblyInfo.cs
+H:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.csproj.CoreCompileInputs.cache
+H:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.csproj.CopyComplete
+H:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.dll
+H:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\refint\Lab07.dll
+H:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.pdb
+H:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.genruntimeconfig.cache
+H:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\ref\Lab07.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SimpleEngine.dll
+H:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SimpleEngine.pdb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\BumpMap.xnb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\art.xnb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\BumpTest.xnb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\crossHatch.xnb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\monkey.xnb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\nm.xnb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\round.xnb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\saint.xnb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\science.xnb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\square.xnb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\Plane.xnb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.exe
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.deps.json
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.runtimeconfig.json
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.pdb
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SimpleEngine.dll
+I:\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SimpleEngine.pdb
+I:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.csproj.AssemblyReference.cache
+I:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+I:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.AssemblyInfoInputs.cache
+I:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.AssemblyInfo.cs
+I:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.csproj.CoreCompileInputs.cache
+I:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.csproj.CopyComplete
+I:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.dll
+I:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\refint\Lab07.dll
+I:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.pdb
+I:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.genruntimeconfig.cache
+I:\CPI411_2023\Lab07\obj\Debug\net6.0-windows\ref\Lab07.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\BumpMap.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\art.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\BumpTest.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\crossHatch.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\monkey.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\nm.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\round.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\saint.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\science.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\NormalMap\square.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\Plane.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.exe
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.deps.json
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.runtimeconfig.json
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Lab07.pdb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SimpleEngine.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\SimpleEngine.pdb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.csproj.AssemblyReference.cache
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.AssemblyInfoInputs.cache
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.AssemblyInfo.cs
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.csproj.CopyComplete
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\obj\Debug\net6.0-windows\refint\Lab07.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.pdb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\obj\Debug\net6.0-windows\Lab07.genruntimeconfig.cache
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\obj\Debug\net6.0-windows\ref\Lab07.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\skybox\cube.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\skybox\skybox.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG1.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG2.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG3.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG4.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG5.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Lab07\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG6.xnb

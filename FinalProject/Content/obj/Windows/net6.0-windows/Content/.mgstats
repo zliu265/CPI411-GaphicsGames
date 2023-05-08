@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CPI411_2023/FinalProject/Content/Font.spritefont","D:/CPI411_2023/FinalProject/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21535,0.2706008
+"D:/CPI411_2023/FinalProject/Content/heng.fbx","D:/CPI411_2023/FinalProject/Content/bin/Windows/Content/heng.xnb","ModelProcessor","ModelContent",95456,97691,0.212218
+"D:/CPI411_2023/FinalProject/Content/Picture.jpg","D:/CPI411_2023/FinalProject/Content/bin/Windows/Content/Picture.xnb","TextureProcessor","Texture2DContent",7524129,33162325,1.6933721
+"D:/CPI411_2023/FinalProject/Content/Plane.FBX","D:/CPI411_2023/FinalProject/Content/bin/Windows/Content/Plane.xnb","ModelProcessor","ModelContent",18112,2289,0.2226069
+"D:/CPI411_2023/FinalProject/Content/ShadowShader.fx","D:/CPI411_2023/FinalProject/Content/bin/Windows/Content/ShadowShader.xnb","EffectProcessor","CompiledEffectContent",3692,4954,0.5429314
+"D:/CPI411_2023/FinalProject/Content/triangle.fbx","D:/CPI411_2023/FinalProject/Content/bin/Windows/Content/triangle.xnb","ModelProcessor","ModelContent",14320,1633,0.095396

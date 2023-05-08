@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CPI411_2023/Lab06/Content/Helicopter/Helicopter.fbx","D:/CPI411_2023/Lab06/Content/bin/Windows/Helicopter/Helicopter.xnb","ModelProcessor","ModelContent",68752,24016,0.4803933
+"D:/CPI411_2023/Lab06/Content/Helicopter/HelicopterTexture.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Helicopter/HelicopterTexture.xnb","TextureProcessor","Texture2DContent",2544,1048661,0.0352465
+"D:/CPI411_2023/Lab06/Content/Reflection.fx","D:/CPI411_2023/Lab06/Content/bin/Windows/Reflection.xnb","EffectProcessor","CompiledEffectContent",1588,2445,0.4111568
+"D:/CPI411_2023/Lab06/Content/Skybox/cube.fbx","D:/CPI411_2023/Lab06/Content/bin/Windows/Skybox/cube.xnb","ModelProcessor","ModelContent",16784,907,0.003125
+"D:/CPI411_2023/Lab06/Content/Skybox/skybox.fx","D:/CPI411_2023/Lab06/Content/bin/Windows/Skybox/skybox.xnb","EffectProcessor","CompiledEffectContent",1085,1692,0.4391652
+"D:/CPI411_2023/Lab06/Content/Skybox/SunsetPNG1.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Skybox/SunsetPNG1.xnb","TextureProcessor","Texture2DContent",268460,1048661,0.056558
+"D:/CPI411_2023/Lab06/Content/Skybox/SunsetPNG2.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Skybox/SunsetPNG2.xnb","TextureProcessor","Texture2DContent",266493,1048661,0.0364592
+"D:/CPI411_2023/Lab06/Content/Skybox/SunsetPNG3.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Skybox/SunsetPNG3.xnb","TextureProcessor","Texture2DContent",90567,1048661,0.0435618
+"D:/CPI411_2023/Lab06/Content/Skybox/SunsetPNG4.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Skybox/SunsetPNG4.xnb","TextureProcessor","Texture2DContent",244734,1048661,0.0433742
+"D:/CPI411_2023/Lab06/Content/Skybox/SunsetPNG5.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Skybox/SunsetPNG5.xnb","TextureProcessor","Texture2DContent",257410,1048661,0.0420883
+"D:/CPI411_2023/Lab06/Content/Skybox/SunsetPNG6.png","D:/CPI411_2023/Lab06/Content/bin/Windows/Skybox/SunsetPNG6.xnb","TextureProcessor","Texture2DContent",267828,1048661,0.0275143

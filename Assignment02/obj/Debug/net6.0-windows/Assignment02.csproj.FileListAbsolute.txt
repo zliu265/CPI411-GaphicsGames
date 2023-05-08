@@ -1,0 +1,309 @@
+H:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.csproj.AssemblyReference.cache
+H:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+H:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.AssemblyInfoInputs.cache
+H:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.AssemblyInfo.cs
+H:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.csproj.CoreCompileInputs.cache
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Assignment2Shader.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\box.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\bunny.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_negx.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_negy.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_negz.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_posx.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_posy.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_posz.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Font.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.exe
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.deps.json
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.runtimeconfig.json
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.pdb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SimpleEngine.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SimpleEngine.pdb
+H:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.csproj.CopyComplete
+H:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.dll
+H:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\refint\Assignment02.dll
+H:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.pdb
+H:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.genruntimeconfig.cache
+H:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\ref\Assignment02.dll
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Helicopter\Helicopter.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Helicopter\HelicopterTexture.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Helicopter\HelicopterTexture_0.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\cube.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\skybox.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG1.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG2.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG3.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG4.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG5.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG6.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_negx.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_negy.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_negz.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_posx.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_posy.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_posz.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_negx.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_negy.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_negz.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_posx.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_posy.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_posz.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_negx.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_negy.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_negz.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_posx.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_posy.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_posz.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_negx.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_negy.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_negz.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_posx.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_posy.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_posz.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_negx.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_negy.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_negz.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_posx.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_posy.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_posz.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_01-512x512.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_02-512x512.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_03-512x512.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_04-512x512.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_05-512x512.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_06-512x512.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\back.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\down.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\front.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\left.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\right.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\SkyBox.xnb
+H:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\up.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_negx.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_negy.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_negz.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_posx.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_posy.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_posz.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Assignment2Shader.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\box.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\bunny.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_negx.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_negy.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_negz.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_posx.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_posy.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_posz.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Font.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_negx.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_negy.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_negz.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_posx.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_posy.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_posz.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Helicopter\Helicopter.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Helicopter\HelicopterTexture.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Helicopter\HelicopterTexture_0.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_negx.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_negy.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_negz.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_posx.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_posy.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_posz.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\back.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\down.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\front.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\left.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\right.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\SkyBox.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\up.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_01-512x512.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_02-512x512.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_03-512x512.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_04-512x512.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_05-512x512.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_06-512x512.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_negx.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_negy.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_negz.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_posx.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_posy.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_posz.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\cube.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\skybox.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG1.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG2.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG3.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG4.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG5.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG6.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_negx.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_negy.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_negz.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_posx.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_posy.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_posz.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.exe
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.deps.json
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.runtimeconfig.json
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.pdb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SimpleEngine.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SimpleEngine.pdb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.csproj.AssemblyReference.cache
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.AssemblyInfoInputs.cache
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.AssemblyInfo.cs
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.csproj.CopyComplete
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\refint\Assignment02.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.pdb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.genruntimeconfig.cache
+C:\Users\zhongwei liu\Desktop\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\ref\Assignment02.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_negx.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_negy.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_negz.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_posx.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_posy.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\arch\arch_posz.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Assignment2Shader.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\box.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\bunny.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_negx.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_negy.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_negz.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_posx.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_posy.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\debug\debug_posz.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Font.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_negx.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_negy.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_negz.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_posx.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_posy.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\grandcanyon\grandcanyon_posz.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Helicopter\Helicopter.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Helicopter\HelicopterTexture.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Helicopter\HelicopterTexture_0.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_negx.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_negy.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_negz.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_posx.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_posy.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\hills\hills_posz.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\back.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\down.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\front.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\left.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\right.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\SkyBox.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself1\up.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_01-512x512.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_02-512x512.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_03-512x512.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_04-512x512.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_05-512x512.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\myself\Elements_06-512x512.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_negx.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_negy.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_negz.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_posx.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_posy.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\nvlobby\nvlobby_new_posz.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\cube.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\skybox.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG1.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG2.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG3.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG4.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG5.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\Skybox\SunsetPNG6.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_negx.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_negy.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_negz.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_posx.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_posy.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Content\test\test_posz.xnb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.exe
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.deps.json
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.runtimeconfig.json
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Assignment02.pdb
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SimpleEngine.dll
+D:\CPI411_2023\Assignment02\bin\Debug\net6.0-windows\SimpleEngine.pdb
+D:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.csproj.AssemblyReference.cache
+D:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.AssemblyInfoInputs.cache
+D:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.AssemblyInfo.cs
+D:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.csproj.CoreCompileInputs.cache
+D:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.csproj.CopyComplete
+D:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.dll
+D:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\refint\Assignment02.dll
+D:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.pdb
+D:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\Assignment02.genruntimeconfig.cache
+D:\CPI411_2023\Assignment02\obj\Debug\net6.0-windows\ref\Assignment02.dll

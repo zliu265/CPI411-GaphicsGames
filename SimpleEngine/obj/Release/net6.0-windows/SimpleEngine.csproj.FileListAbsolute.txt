@@ -1,0 +1,5 @@
+H:\CPI411_2023\SimpleEngine\obj\Release\net6.0-windows\SimpleEngine.csproj.AssemblyReference.cache
+H:\CPI411_2023\SimpleEngine\obj\Release\net6.0-windows\SimpleEngine.GeneratedMSBuildEditorConfig.editorconfig
+H:\CPI411_2023\SimpleEngine\obj\Release\net6.0-windows\SimpleEngine.AssemblyInfoInputs.cache
+H:\CPI411_2023\SimpleEngine\obj\Release\net6.0-windows\SimpleEngine.AssemblyInfo.cs
+H:\CPI411_2023\SimpleEngine\obj\Release\net6.0-windows\SimpleEngine.csproj.CoreCompileInputs.cache

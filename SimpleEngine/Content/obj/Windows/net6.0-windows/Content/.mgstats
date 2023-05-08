@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CPI411_2023/SimpleEngine/Content/Skybox/cube.fbx","D:/CPI411_2023/SimpleEngine/Content/bin/Windows/Content/Skybox/cube.xnb","ModelProcessor","ModelContent",16784,907,0.3179446
+"D:/CPI411_2023/SimpleEngine/Content/Skybox/skybox.fx","D:/CPI411_2023/SimpleEngine/Content/bin/Windows/Content/Skybox/skybox.xnb","EffectProcessor","CompiledEffectContent",1085,1692,0.5548468
+"D:/CPI411_2023/SimpleEngine/Content/Skybox/SunsetPNG1.png","D:/CPI411_2023/SimpleEngine/Content/bin/Windows/Content/Skybox/SunsetPNG1.xnb","TextureProcessor","Texture2DContent",268460,1048661,0.2849516
+"D:/CPI411_2023/SimpleEngine/Content/Skybox/SunsetPNG2.png","D:/CPI411_2023/SimpleEngine/Content/bin/Windows/Content/Skybox/SunsetPNG2.xnb","TextureProcessor","Texture2DContent",266493,1048661,0.0568023
+"D:/CPI411_2023/SimpleEngine/Content/Skybox/SunsetPNG3.png","D:/CPI411_2023/SimpleEngine/Content/bin/Windows/Content/Skybox/SunsetPNG3.xnb","TextureProcessor","Texture2DContent",90567,1048661,0.0435145
+"D:/CPI411_2023/SimpleEngine/Content/Skybox/SunsetPNG4.png","D:/CPI411_2023/SimpleEngine/Content/bin/Windows/Content/Skybox/SunsetPNG4.xnb","TextureProcessor","Texture2DContent",244734,1048661,0.0859069
+"D:/CPI411_2023/SimpleEngine/Content/Skybox/SunsetPNG5.png","D:/CPI411_2023/SimpleEngine/Content/bin/Windows/Content/Skybox/SunsetPNG5.xnb","TextureProcessor","Texture2DContent",257410,1048661,0.0388313
+"D:/CPI411_2023/SimpleEngine/Content/Skybox/SunsetPNG6.png","D:/CPI411_2023/SimpleEngine/Content/bin/Windows/Content/Skybox/SunsetPNG6.xnb","TextureProcessor","Texture2DContent",267828,1048661,0.0623101

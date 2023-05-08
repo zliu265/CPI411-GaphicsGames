@@ -1,0 +1,84 @@
+H:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.AssemblyReference.cache
+H:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.GeneratedMSBuildEditorConfig.editorconfig
+H:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfoInputs.cache
+H:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfo.cs
+H:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.CoreCompileInputs.cache
+H:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.deps.json
+H:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.dll
+H:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.pdb
+H:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.dll
+H:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\refint\SimpleEngine.dll
+H:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.pdb
+H:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\ref\SimpleEngine.dll
+D:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.deps.json
+D:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.dll
+D:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.pdb
+D:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.AssemblyReference.cache
+D:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfoInputs.cache
+D:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfo.cs
+D:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.CoreCompileInputs.cache
+D:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.dll
+D:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\refint\SimpleEngine.dll
+D:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.pdb
+D:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\ref\SimpleEngine.dll
+I:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.deps.json
+I:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.dll
+I:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.pdb
+I:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.AssemblyReference.cache
+I:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.GeneratedMSBuildEditorConfig.editorconfig
+I:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfoInputs.cache
+I:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfo.cs
+I:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.CoreCompileInputs.cache
+I:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.dll
+I:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\refint\SimpleEngine.dll
+I:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.pdb
+I:\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\ref\SimpleEngine.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.deps.json
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.pdb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.AssemblyReference.cache
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfoInputs.cache
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfo.cs
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.CoreCompileInputs.cache
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\refint\SimpleEngine.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.pdb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\obj\Debug\net6.0-windows\ref\SimpleEngine.dll
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\cube.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\skybox.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG1.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG2.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG3.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG4.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG5.xnb
+C:\Users\zhongwei liu\Desktop\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG6.xnb
+D:\CPI350_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\cube.xnb
+D:\CPI350_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\skybox.xnb
+D:\CPI350_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG1.xnb
+D:\CPI350_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG2.xnb
+D:\CPI350_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG3.xnb
+D:\CPI350_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG4.xnb
+D:\CPI350_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG5.xnb
+D:\CPI350_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG6.xnb
+D:\CPI350_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.deps.json
+D:\CPI350_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.dll
+D:\CPI350_2023\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.pdb
+D:\CPI350_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.AssemblyReference.cache
+D:\CPI350_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPI350_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfoInputs.cache
+D:\CPI350_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfo.cs
+D:\CPI350_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.CoreCompileInputs.cache
+D:\CPI350_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.dll
+D:\CPI350_2023\SimpleEngine\obj\Debug\net6.0-windows\refint\SimpleEngine.dll
+D:\CPI350_2023\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.pdb
+D:\CPI350_2023\SimpleEngine\obj\Debug\net6.0-windows\ref\SimpleEngine.dll
+D:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\cube.xnb
+D:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\skybox.xnb
+D:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG1.xnb
+D:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG2.xnb
+D:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG3.xnb
+D:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG4.xnb
+D:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG5.xnb
+D:\CPI411_2023\SimpleEngine\bin\Debug\net6.0-windows\Content\skybox\SunsetPNG6.xnb
